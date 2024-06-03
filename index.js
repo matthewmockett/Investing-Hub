@@ -54,3 +54,6 @@ function square(number){
 
 let num = square(2);
 console.log(num)
+
+// testing git
+// making sure it works
